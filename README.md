@@ -22,5 +22,5 @@ cd
 ## Example2
 ## Third Example  
 
-- [] Todo  
+- [ ] Todo  
 - [x] Todo erledigt  
