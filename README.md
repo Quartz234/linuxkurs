@@ -20,7 +20,7 @@ cd
 
 ## Example
 ## Example2
-## Third Example
+## Third Example  
 
-[]Todo
-[x]Todo erledigt
+[] Todo  
+[x] Todo erledigt  
