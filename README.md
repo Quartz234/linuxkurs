@@ -24,3 +24,10 @@ cd
 
 - [ ] Todo  
 - [x] Todo erledigt  
+
+
+Programmaufruf | Funktion
+-------------- | --------
+foobar -v | Erweiterte Informationen
+foobar -t | Programm nur testen
+foobar -vt | Programm mit allen Optionen ausführen
